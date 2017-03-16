@@ -1,2 +1,4 @@
 # twitch-plays-crypt-of-the-necrodancer
-Lets people in twitch.tv control a character on crypt of the nectodancer by typing directions
+video showing it being used:
+https://www.twitch.tv/videos/121437796?t=32m48s
+
